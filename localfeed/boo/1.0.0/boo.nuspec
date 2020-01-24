@@ -8,7 +8,7 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>sos</description>
     <dependencies>
-      <dependency id="boo" version="1.0.0" />
+      <dependency id="chris" version="1.0.0" />
     </dependencies>
   </metadata>
 </package>

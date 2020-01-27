@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>alice</id>
+    <version>2.0.0</version>
+    <authors>sos</authors>
+    <owners>sos</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>sos</description>
+    <dependencies>
+      <dependency id="bob" version="2.0.0" />
+      <dependency id="frank" version="2.0.0" />
+    </dependencies>
+  </metadata>
+</package>

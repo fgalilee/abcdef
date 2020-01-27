@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xml:base="http://localhost:56493/nuget" xmlns="http://www.w3.org/2005/Atom" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices" xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml">
+  <id>http://schemas.datacontract.org/2004/07/</id>
+  <title />
+  <updated>2020-01-27T23:22:02Z</updated>
+  <link rel="self" href="http://localhost:56493/nuget/Packages" />
+  <entry>
+    <id>http://localhost:56493/nuget/Packages(Id='bob',Version='1.0.0')</id>
+    <category term="NuGet.Server.Core.DataServices.ODataPackage" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <link rel="edit" href="http://localhost:56493/nuget/Packages(Id='bob',Version='1.0.0')" />
+    <link rel="self" href="http://localhost:56493/nuget/Packages(Id='bob',Version='1.0.0')" />
+    <title type="text">bob</title>
+    <published>2020-01-27T23:18:33Z</published>
+    <updated>2020-01-27T23:17:19Z</updated>
+    <author>
+      <name>sos</name>
+    </author>
+    <m:action metadata="http://localhost:56493/nuget/$metadata#Container.Download" title="Download" target="http://localhost:56493/nuget/Packages(Id='bob',Version='1.0.0')/Download" />
+    <content type="application/zip" src="http://localhost:56493/nuget/Packages(Id='bob',Version='1.0.0')/Download" />
+    <m:properties>
+      <d:Id>bob</d:Id>
+      <d:Version>1.0.0</d:Version>
+      <d:NormalizedVersion>1.0.0</d:NormalizedVersion>
+      <d:IsPrerelease m:type="Edm.Boolean">false</d:IsPrerelease>
+      <d:Title m:null="true" />
+      <d:Authors>sos</d:Authors>
+      <d:Owners>sos</d:Owners>
+      <d:IconUrl m:null="true" />
+      <d:LicenseUrl m:null="true" />
+      <d:ProjectUrl m:null="true" />
+      <d:DownloadCount m:type="Edm.Int32">-1</d:DownloadCount>
+      <d:RequireLicenseAcceptance m:type="Edm.Boolean">false</d:RequireLicenseAcceptance>
+      <d:DevelopmentDependency m:type="Edm.Boolean">false</d:DevelopmentDependency>
+      <d:Description>sos</d:Description>
+      <d:Summary m:null="true" />
+      <d:ReleaseNotes m:null="true" />
+      <d:Published m:type="Edm.DateTime">2020-01-27T23:18:33.0286883Z</d:Published>
+      <d:LastUpdated m:type="Edm.DateTime">2020-01-27T23:17:19.7373877Z</d:LastUpdated>
+      <d:Dependencies>chris:1.0.0</d:Dependencies>
+      <d:PackageHash>6um0uIE05ikk8UTHOqTZx5HU2iiDws+qB00gDEKigZ9RR7vO4qV4MypHe6Vwxm9dHkgnmUpxy7MBrzghLF8K6A==</d:PackageHash>
+      <d:PackageHashAlgorithm>SHA512</d:PackageHashAlgorithm>
+      <d:PackageSize m:type="Edm.Int64">1627</d:PackageSize>
+      <d:Copyright m:null="true" />
+      <d:Tags m:null="true" />
+      <d:IsAbsoluteLatestVersion m:type="Edm.Boolean">false</d:IsAbsoluteLatestVersion>
+      <d:IsLatestVersion m:type="Edm.Boolean">false</d:IsLatestVersion>
+      <d:Listed m:type="Edm.Boolean">true</d:Listed>
+      <d:VersionDownloadCount m:type="Edm.Int32">-1</d:VersionDownloadCount>
+      <d:MinClientVersion m:null="true" />
+      <d:Language m:null="true" />
+    </m:properties>
+  </entry>
+  <entry>
+    <id>http://localhost:56493/nuget/Packages(Id='bob',Version='2.0.0')</id>
+    <category term="NuGet.Server.Core.DataServices.ODataPackage" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <link rel="edit" href="http://localhost:56493/nuget/Packages(Id='bob',Version='2.0.0')" />
+    <link rel="self" href="http://localhost:56493/nuget/Packages(Id='bob',Version='2.0.0')" />
+    <title type="text">bob</title>
+    <published>2020-01-27T23:18:33Z</published>
+    <updated>2020-01-27T23:17:19Z</updated>
+    <author>
+      <name>sos</name>
+    </author>
+    <m:action metadata="http://localhost:56493/nuget/$metadata#Container.Download" title="Download" target="http://localhost:56493/nuget/Packages(Id='bob',Version='2.0.0')/Download" />
+    <content type="application/zip" src="http://localhost:56493/nuget/Packages(Id='bob',Version='2.0.0')/Download" />
+    <m:properties>
+      <d:Id>bob</d:Id>
+      <d:Version>2.0.0</d:Version>
+      <d:NormalizedVersion>2.0.0</d:NormalizedVersion>
+      <d:IsPrerelease m:type="Edm.Boolean">false</d:IsPrerelease>
+      <d:Title m:null="true" />
+      <d:Authors>sos</d:Authors>
+      <d:Owners>sos</d:Owners>
+      <d:IconUrl m:null="true" />
+      <d:LicenseUrl m:null="true" />
+      <d:ProjectUrl m:null="true" />
+      <d:DownloadCount m:type="Edm.Int32">-1</d:DownloadCount>
+      <d:RequireLicenseAcceptance m:type="Edm.Boolean">false</d:RequireLicenseAcceptance>
+      <d:DevelopmentDependency m:type="Edm.Boolean">false</d:DevelopmentDependency>
+      <d:Description>sos</d:Description>
+      <d:Summary m:null="true" />
+      <d:ReleaseNotes m:null="true" />
+      <d:Published m:type="Edm.DateTime">2020-01-27T23:18:33.0595765Z</d:Published>
+      <d:LastUpdated m:type="Edm.DateTime">2020-01-27T23:17:19.7393816Z</d:LastUpdated>
+      <d:Dependencies>chris:2.0.0</d:Dependencies>
+      <d:PackageHash>+LJw4a96aoo4IVdzB6hMcCb+kIFdu8D6BxWx2kjqOT+nyjiIxiQMtDxU8ctFvtYZr2RLUukYtlILcS6+jIfb5w==</d:PackageHash>
+      <d:PackageHashAlgorithm>SHA512</d:PackageHashAlgorithm>
+      <d:PackageSize m:type="Edm.Int64">1630</d:PackageSize>
+      <d:Copyright m:null="true" />
+      <d:Tags m:null="true" />
+      <d:IsAbsoluteLatestVersion m:type="Edm.Boolean">true</d:IsAbsoluteLatestVersion>
+      <d:IsLatestVersion m:type="Edm.Boolean">true</d:IsLatestVersion>
+      <d:Listed m:type="Edm.Boolean">true</d:Listed>
+      <d:VersionDownloadCount m:type="Edm.Int32">-1</d:VersionDownloadCount>
+      <d:MinClientVersion m:null="true" />
+      <d:Language m:null="true" />
+    </m:properties>
+  </entry>
+</feed>
